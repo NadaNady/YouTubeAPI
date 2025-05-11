@@ -1,0 +1,88 @@
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.staticwebassets.endpoints.json
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.exe
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.deps.json
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.runtimeconfig.json
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.pdb
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.csproj.AssemblyReference.cache
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.AssemblyInfoInputs.cache
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.AssemblyInfo.cs
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.csproj.CoreCompileInputs.cache
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\scopedcss\bundle\YouTubeAPI.styles.css
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\staticwebassets\msbuild.YouTubeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\staticwebassets\msbuild.YouTubeAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.YouTubeAPI.props
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.YouTubeAPI.props
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.YouTubeAPI.props
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.csproj.Up2Date
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\refint\YouTubeAPI.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.pdb
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.genruntimeconfig.cache
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\ref\YouTubeAPI.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\Google.Apis.YouTube.v3.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\System.Management.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\nadan\OneDrive\Documents\DiGiMates Intern\YouTubeAPI\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.sourcelink.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.staticwebassets.endpoints.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.exe
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.deps.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.runtimeconfig.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\YouTubeAPI.pdb
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\Google.Apis.YouTube.v3.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\System.Management.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.csproj.AssemblyReference.cache
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.AssemblyInfoInputs.cache
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.AssemblyInfo.cs
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.csproj.CoreCompileInputs.cache
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.sourcelink.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\scopedcss\bundle\YouTubeAPI.styles.css
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\staticwebassets\msbuild.YouTubeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\staticwebassets\msbuild.YouTubeAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.YouTubeAPI.props
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.YouTubeAPI.props
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.YouTubeAPI.props
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.csproj.Up2Date
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\refint\YouTubeAPI.dll
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.pdb
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\YouTubeAPI.genruntimeconfig.cache
+C:\Users\nadan\OneDrive\Desktop\DotNet\YouTubeAPI\obj\Debug\net8.0\ref\YouTubeAPI.dll

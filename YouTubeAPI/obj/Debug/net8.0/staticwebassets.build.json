@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8CtJgDezDgh3H+QXhIFF40D2t65AhEcMNd8B/HXYe4Q=",
+  "Source": "YouTubeAPI",
+  "BasePath": "_content/YouTubeAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
